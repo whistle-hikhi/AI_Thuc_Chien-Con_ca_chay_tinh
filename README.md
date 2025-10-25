@@ -1,1 +1,6 @@
-# -AI_Thuc_Chien-Con_ca_chay_tinh
+Trang_1: Black and white comic style photo, a female student is on the phone. On the other end of the line is a Vietnamese police officer.
+Trang_2: Black and white comic style photo, a Vietnamese female student with long black hair wearing uniform, white shirt and trousers, is talking on the phone. On the other end of the line is a Vietnamese police officer with a deceitful face.
+Trang: Black and white comic style photo, a Vietnamese female student with long black hair wearing uniform, white shirt and trousers, sitting in front of the computer using Zoom software. On the other end of the line is a Vietnamese police officer with a deceitful face.
+Trang_4: Black and white comic style photo,An angry middle-aged mother with shoulder-length hair was on the phone. On the other end was a calm, upright-faced Vietnamese policeman."""
+Trang_5: Black and white comic style photo, A very calm, upright looking Vietnamese police officer with a small microphone next to his mouth was talking in the office.
+Trang_6:Black and white comic style photo, a Vietnamese female student with long black hair wearing uniform, white shirt and trousers, is talking happy on the cellphone. On the other end of the line is a happy middle-aged mother with shoulder-length hair was on the cellphone."""
